@@ -1,0 +1,19 @@
+[
+    {
+        "Title": "Mahak",
+        "Content": "what up , an apple a day keeps a doctor away"
+    },
+    
+    {
+        "Title": "Shopping List",
+        "Content": "Buy milk, eggs, and bread"
+    },
+    {
+        "Title": "Study Plan",
+        "Content": "Revise DSA topics: arrays, recursion, and trees"
+    },
+    {
+        "Title": "Project Idea",
+        "Content": "Build a notes manager app using Python and JSON"
+    }
+]
